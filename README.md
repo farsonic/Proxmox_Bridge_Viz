@@ -21,7 +21,7 @@ Press CTRL+C to quit
 This will start a webserver on port 5000 that will allow the user to query a specific bridge using the following syntax. 
 
 ```
-http://192.168.0.223:5000/view?bridge=BRIDGNAME
+http://192.168.0.223:5000/view?bridge=BRIDGENAME
 ```
 
 ### Example output 
