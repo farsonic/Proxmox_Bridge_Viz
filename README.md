@@ -4,7 +4,7 @@ A quick tool to allow users to view the connections between Linux bridges on a P
 
 Start the webserver directly on the proxmox server 
 
-'''
+```
 root@pve1:/var/tmp# python3 bridge_mapping.py
  * Serving Flask app 'bridge_mapping'
  * Debug mode: on
@@ -16,5 +16,5 @@ Press CTRL+C to quit
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 577-998-005
-'''
+```
 
